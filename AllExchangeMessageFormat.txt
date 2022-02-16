@@ -1,0 +1,236 @@
+{
+  "type": "bubble",
+  "size": "kilo",
+  "hero": {
+    "type": "image",
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+    "size": "25%",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Brown Cafe",
+        "weight": "bold",
+        "align": "center",
+        "gravity": "center",
+        "size": "xl",
+        "contents": []
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "margin": "lg",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Binance",
+                "size": "sm",
+                "color": "#000000FF",
+                "flex": 3,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "3.14556455435",
+                "size": "sm",
+                "color": "#666666",
+                "flex": 5,
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "offsetStart": "10%"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Bitopro",
+                "size": "sm",
+                "color": "#000000FF",
+                "flex": 3,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "3.14556455435",
+                "size": "sm",
+                "color": "#666666",
+                "flex": 5,
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "offsetStart": "10%"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Bitopro",
+                "size": "sm",
+                "color": "#000000FF",
+                "flex": 3,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "3.14556455435",
+                "size": "sm",
+                "color": "#666666",
+                "flex": 5,
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "offsetStart": "10%"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Bitopro",
+                "size": "sm",
+                "color": "#000000FF",
+                "flex": 3,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "3.14556455435",
+                "size": "sm",
+                "color": "#666666",
+                "flex": 5,
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "offsetStart": "10%"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Bitopro",
+                "size": "sm",
+                "color": "#000000FF",
+                "flex": 3,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "3.14556455435",
+                "size": "sm",
+                "color": "#666666",
+                "flex": 5,
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "offsetStart": "10%"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Bitopro",
+                "size": "sm",
+                "color": "#000000FF",
+                "flex": 3,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "3.14556455435",
+                "size": "sm",
+                "color": "#666666",
+                "flex": 5,
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "offsetStart": "10%"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Bitopro",
+                "size": "sm",
+                "color": "#000000FF",
+                "flex": 3,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "3.14556455435",
+                "size": "sm",
+                "color": "#666666",
+                "flex": 5,
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "offsetStart": "10%"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Bitopro",
+                "size": "sm",
+                "color": "#000000FF",
+                "flex": 3,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "3.14556455435",
+                "size": "sm",
+                "color": "#666666",
+                "flex": 5,
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "offsetStart": "10%"
+          }
+        ],
+        "spacing": "sm"
+      }
+    ],
+    "width": "300px"
+  }
+}

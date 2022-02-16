@@ -1,0 +1,428 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+        "size": "25%",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "offsetTop": "3px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Brown Cafe",
+            "weight": "bold",
+            "align": "center",
+            "gravity": "center",
+            "size": "xl",
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "xxl",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "價格:",
+                    "size": "sm",
+                    
+                    "color": "#555555",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "2.99999999",
+                    "size": "sm",
+                    "color": "#111111",
+                    "align": "end",
+                    "offsetEnd": "20px"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "sm",
+                    "color": "#555555",
+                    "flex": 0,
+                    "text": "市值:"
+                    
+                  },
+                  {
+                    "type": "text",
+                    "text": "$2.99",
+                    "size": "sm",
+                    "color": "#111111",
+                    "align": "end",
+                    "offsetEnd": "20px"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "市值排名",
+                    
+                    "size": "sm",
+                    "color": "#555555",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$2.99",
+                    "size": "sm",
+                    "color": "#111111",
+                    "align": "end",
+                    "offsetEnd": "20px"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "24小時最高",
+                    
+                    "size": "sm",
+                    "color": "#555555",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$2.99",
+                    "size": "sm",
+                    "color": "#111111",
+                    "align": "end",
+                    "offsetEnd": "20px"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "24小時最低",
+                    "size": "sm",
+                    "color": "#555555",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$2.99",
+                    "size": "sm",
+                    "color": "#111111",
+                    "align": "end",
+                    "offsetEnd": "20px"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "24小時漲幅",
+                    "size": "sm",
+                    
+                    "color": "#555555",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$2.99",
+                    "size": "sm",
+                    "color": "#111111",
+                    "align": "end",
+                    "offsetEnd": "20px"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "24小時漲幅百分比",
+                    
+                    "size": "sm",
+                    "color": "#555555",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$2.99",
+                    "size": "sm",
+                    "color": "#111111",
+                    "align": "end",
+                    "offsetEnd": "20px"
+                  }
+                ]
+              }
+            ],
+            "offsetStart": "5%"
+          }
+        ],
+        "offsetTop": "5px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "hero": {
+        "type": "image",
+        "url": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/1.png",
+        "size": "75%",
+        "aspectRatio": "168:48",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Last 7 Days",
+            "weight": "bold",
+            "align": "center",
+            "gravity": "center",
+            "size": "xl",
+            "contents": []
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "kilo",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "lg",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "md",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "flex": 0,
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "flex": 0,
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "flex": 0,
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "flex": 0,
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "flex": 0,
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "flex": 0,
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "flex": 0,
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "flex": 0,
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Compound Chain新進展！推出原型：跨鏈利率市場 Gateway ，COMP暴漲50",
+                    "weight": "bold",
+                    "flex": 0,
+                    "margin": "sm",
+                    "contents": []
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
